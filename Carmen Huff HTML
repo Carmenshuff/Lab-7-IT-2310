@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explore Iceland</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Explore Iceland</h1>
+
+        <nav>
+            #aboutAbout</a>
+            #highlightsHighlights</a>
+            #galleryGallery</a>
+        </nav>
+    </header>
+
+    <main>
+
+        <section id="about">
+            <h2>Discover Iceland</h2>
+            <p>
+                Iceland is known as the Land of Fire and Ice. Visitors can enjoy
+                breathtaking waterfalls, glaciers, volcanoes, hot springs, and
+                the Northern Lights.
+            </p>
+        </section>
+
+        <section id="highlights">
+            <h2>Top Highlights</h2>
+
+            <article>
+                <h3>Blue Lagoon</h3>
+                <p>
+                    Relax in Iceland's famous geothermal spa surrounded by lava fields.
+                </p>
+            </article>
+
+            <article>
+                <h3>Golden Circle</h3>
+                <p>
+                    Explore popular attractions including Gullfoss Waterfall,
+                    Geysir, and Thingvellir National Park.
+                </p>
+            </article>
+
+            <article>
+                <h3>Northern Lights</h3>
+                <p>
+                    Experience the colorful aurora borealis dancing across the night sky.
+                </p>
+            </article>
+
+        </section>
+
+        <section id="gallery">
+            <h2>Photo Gallery</h2>
+
+            iceland1-800.jpg 100vw, 50vw"
+                 alt="Iceland Waterfall">
+
+            iceland2.jpg
+
+            iceland3.jpg
+        </section>
+
+    </main>
+
+    <footer>
+        <p>Created by Carmen Huff</p>
+    </footer>
+
+</body>
+</html>
